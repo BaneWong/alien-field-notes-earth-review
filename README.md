@@ -13,3 +13,9 @@ python3 src/main.py
 ```
 
 The program writes one original line of at most 200 characters — a review of planet Earth written by an alien tourist — to `/output/entry.txt`.
+
+## Entry
+
+```
+4/5: The local species keeps tiny hairless apes in their homes and feeds them daily — I suspect those 'humans' are the pets. Would not recommend.
+```
